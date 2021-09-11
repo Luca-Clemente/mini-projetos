@@ -1,4 +1,4 @@
-const btn = document.getElementById('#btn'); // Selecionando o elemento de id btn.
+const btn = document.getElementById('btn'); // Selecionando o elemento de id btn.
 
 btn.addEventListener('click', () => {
     document.body.style.background = randomColor();
